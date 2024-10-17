@@ -1,4 +1,4 @@
-## Hi I'm Lê Nguyễn Đăng 👋
+## Hi I'm Lê Nguyễn Đăng Định 👋
 
 
 **Djnk2203/Djnk2203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
